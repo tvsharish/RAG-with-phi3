@@ -1,0 +1,9 @@
+PyPDF2
+streamlit
+langchain
+langchain_community
+langchain_core
+faiss-gpu
+transformers==4.37.2
+sentence-transformers==2.2.2
+gpt4all
