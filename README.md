@@ -1,4 +1,4 @@
-# PDF Chatbot with Streamlit
+# Phi3 Chatbot with RAG and Streamlit
 
 This application provides a question-answering chatbot interface where users can upload PDF documents to generate a knowledge base and ask questions directly related to the content of the PDF. It is integrated with 
 
